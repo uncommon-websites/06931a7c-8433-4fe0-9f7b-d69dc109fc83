@@ -1,24 +1,24 @@
 <script lang="ts">
   const stats = [
     {
-      label: "30+ People",
-      desc: "You're a small, but mighty team of curious problem-solvers and explorers. With a versatile, Swiss-knife mentality, we thrive on tackling diverse challenges. Our core team is tight-knit, yet we seamlessly tap into a wider network of experts when needed. Here, theory meets practice, and together, we get things done.",
-      img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+      label: "Fortune 500 Trust",
+      desc: "We've earned the trust of major enterprise clients including EY, Deloitte, IBM, AT&T, Boeing, Airbus, Delta Air Lines, and Eli Lilly. Our track record with Fortune 500 companies demonstrates our ability to deliver enterprise-grade solutions while maintaining the personal touch of a dedicated partner.",
+      img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=200"
     },
     {
-      label: "14+ Awards",
-      desc: "Our work speaks for itself—recognized internationally, we've already earned some awards. These accolades reflect the passion and innovation we pour into every project, pushing boundaries and delivering results that make an impact.",
-      img: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=200"
+      label: "Microsoft Certified",
+      desc: "As certified Microsoft Partners, we bring deep expertise in Microsoft technologies and enterprise solutions. This partnership enables us to provide best-in-class infrastructure services, from network security to cloud solutions, backed by Microsoft's industry-leading platforms.",
+      img: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=200"
     },
     {
-      label: "CGN, BLN, Remote",
-      desc: "Headquartered in Cologne, with an expanding team in Berlin, we also embrace remote work. Our colleagues span across cities like Barcelona, Stuttgart, Munich, and more, bringing a mix of perspectives and expertise to everything we do. Whether in the office or working remotely, we stay connected and collaborative.",
-      img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=200"
+      label: "Multi-Industry Expertise",
+      desc: "From automotive dealerships to healthcare systems, manufacturing to hospitality, we've successfully delivered solutions across diverse industries. Our experience spans consulting, technology, aviation, telecommunications, real estate, and more—giving us unique insights into varied business challenges.",
+      img: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=200"
     },
     {
-      label: "B-Corp",
-      desc: "We've officially joined the ranks of B-Corp certified companies. This means we meet the highest standards of social and environmental performance, accountability, and transparency. We're proud to use business as a force for good, ensuring our impact extends beyond just profit.",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/B_Corp_Logo.svg/1200px-B_Corp_Logo.svg.png" // Placeholder
+      label: "Growing Team",
+      desc: "We're actively expanding our capabilities with new positions in automotive tech support, project management, and digital marketing. Our growth reflects our commitment to providing comprehensive technology and consulting services to mid-market companies who need reliable partners.",
+      img: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=200"
     }
   ];
 </script>
@@ -26,7 +26,7 @@
 <section class="py-24 px-6 md:px-12 bg-white border-t border-gray-100">
   <div class="mb-16">
     <p class="text-gray-500 max-w-xl">
-      Curious about who we are? Here's a snapshot of the team, our achievements, and the milestones we're proud of.
+      Discover what sets Knowtion apart—our client relationships, certifications, and the expertise that drives results.
     </p>
   </div>
 
